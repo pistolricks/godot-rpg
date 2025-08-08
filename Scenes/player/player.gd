@@ -9,7 +9,7 @@ var attacking_ranged:bool = false
 
 
 var health: int = 5
-var damage: int = 2
+var damage: int = 1
 
 func _physics_process(delta: float) -> void:
 	
